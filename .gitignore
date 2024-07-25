@@ -1,6 +1,7 @@
 ############################
 # OS X
 ############################
+strapi-BE/node_modules
 
 .DS_Store
 .AppleDouble
@@ -30,7 +31,7 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
-
+node_modules
 
 ############################
 # Packages
